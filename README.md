@@ -59,9 +59,15 @@ Tienes toda la información extendida sobre los retos de programación semanales
 
 **Puedes hacer libremente un [![fork](https://img.shields.io/badge/fork-blue?longCache=true&style=popout-square)](https://docs.github.com/en/get-started/quickstart/fork-a-repo) del proyecto y trabajar con Git para ir sincronizando las actualizaciones del proyecto.**
 
-* Cada miércoles se publicará un nuevo reto de código.
-* Cada reto será un nuevo fichero dentro de `desafio-semanal-2022-POO/src/containers` donde se indicará la fecha, el enunciado y la información necesaria para llevarlo a cabo.
-* Se comunicará en las clases de los miércoles y se subirá el enunciado al [repositorio](https://github.com/rgplazas/desafio-semanal-2022-POO).
+* Cada jueves se publicará un nuevo reto de código.
+* Cada reto será un nuevo fichero dentro de `desafio-semanal-2023-POO` donde se indicará la fecha, el enunciado y la información necesaria para llevarlo a cabo.
+* Se comunicará en las clases de los jueves y se subirá el enunciado al [repositorio](https://github.com/rgplazas/desafio-semanal-2023-POO).
 * Dispondrás de una semana para resolverlo (3 retos), preguntar tus dudas, debatir y aportar ayuda en clases.
-* El miércoles siguiente se subirá la resolución al repositorio, se comentará en clases (utilizando alguna solución de entre los alumnos o que se haya realizado una pull request al proyecto) y se añadirá el nuevo reto semanal.
+* El jueves siguiente se subirá la resolución al repositorio, se comentará en clases (utilizando alguna solución de entre los alumnos o que se haya realizado una pull request al proyecto) y se añadirá el nuevo reto semanal.
 * Comenzará de nuevo el proceso.
+
+*Si no dispones de un editor de código como Visual Studio Code, puedes usar un editor de código online.* 
+  ## Listado de editor de código online:
+  * **JavaScript** ([https://runjs.co/](https://play.kotlinlang.org/))
+  * **PHP**        ([https://onlinephp.io/))
+  * **Python**     ([https://www.online-python.com/))
