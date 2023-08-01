@@ -69,5 +69,6 @@ Tienes toda la información extendida sobre los retos de programación semanales
 *Si no dispones de un editor de código como Visual Studio Code, puedes usar un editor de código online.* 
   ## Listado de editor de código online:
   *  [JavaScript](https://play.kotlinlang.org/)
+  *  [JavaScript](https://www.sololearn.com/compiler-playground/java)
   *  [PHP](https://onlinephp.io/)
   *  [Python](https://www.online-python.com/)
