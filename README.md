@@ -57,7 +57,7 @@ Tienes toda la información extendida sobre los retos de programación semanales
 
 ### ¿Cómo se debe participar?
 
-**Puedes hacer libremente un [fork]([https://github.com/rgplazas/desafio-semanal-2022-POO](https://docs.github.com/en/get-started/quickstart/fork-a-repo)) del proyecto y trabajar con Git para ir sincronizando las actualizaciones del proyecto.**
+**Puedes hacer libremente un [![fork](https://img.shields.io/badge/React-18.2.0-blue?longCache=true&style=popout-square)](https://docs.github.com/en/get-started/quickstart/fork-a-repo) del proyecto y trabajar con Git para ir sincronizando las actualizaciones del proyecto.**
 
 * Cada miércoles se publicará un nuevo reto de código.
 * Cada reto será un nuevo fichero dentro de `desafio-semanal-2022-POO/src/containers` donde se indicará la fecha, el enunciado y la información necesaria para llevarlo a cabo.
