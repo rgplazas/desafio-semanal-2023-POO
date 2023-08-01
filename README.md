@@ -54,3 +54,14 @@ Tienes toda la información extendida sobre los retos de programación semanales
 * **#30** - `MARCO DE PALABRAS`
 * **#31** - `AÑOS BISIESTOS`
 * **#32** - `EL SEGUNDO`
+
+### ¿Cómo se debe participar?
+
+**Puedes hacer libremente un [fork]([https://github.com/rgplazas/desafio-semanal-2022-POO](https://docs.github.com/en/get-started/quickstart/fork-a-repo)) del proyecto y trabajar con Git para ir sincronizando las actualizaciones del proyecto.**
+
+* Cada miércoles se publicará un nuevo reto de código.
+* Cada reto será un nuevo fichero dentro de `desafio-semanal-2022-POO/src/containers` donde se indicará la fecha, el enunciado y la información necesaria para llevarlo a cabo.
+* Se comunicará en las clases de los miércoles y se subirá el enunciado al [repositorio](https://github.com/rgplazas/desafio-semanal-2022-POO).
+* Dispondrás de una semana para resolverlo (3 retos), preguntar tus dudas, debatir y aportar ayuda en clases.
+* El miércoles siguiente se subirá la resolución al repositorio, se comentará en clases (utilizando alguna solución de entre los alumnos o que se haya realizado una pull request al proyecto) y se añadirá el nuevo reto semanal.
+* Comenzará de nuevo el proceso.
