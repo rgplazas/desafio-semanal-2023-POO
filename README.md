@@ -21,16 +21,16 @@ Puedes utilizar **cualquier lenguaje** para resolver los retos. Tienes solucione
 Tienes toda la información extendida sobre los retos de programación semanales y mensuales en **este redmi**.
 
 ## Listado de retos
-* **#0** - `EL FAMOSO "FIZZ BUZZ"`
-* **#1** - `¿ES UN ANAGRAMA?`
-* **#2** - `LA SUCESIÓN DE FIBONACCI`
-* **#3** - `¿ES UN NÚMERO PRIMO?`
-* **#4** - `ÁREA DE UN POLÍGONO`
-* **#5** - `ASPECT RATIO DE UNA IMAGEN`
-* **#6** - `INVIRTIENDO CADENAS`
-* **#7** - `CONTANDO PALABRAS`
-* **#8** - `DECIMAL A BINARIO`
-* **#9** - `CÓDIGO MORSE`
+* **#0**  - `EL FAMOSO "FIZZ BUZZ"`
+* **#1**  - `¿ES UN ANAGRAMA?`
+* **#2**  - `LA SUCESIÓN DE FIBONACCI`
+* **#3**  - `¿ES UN NÚMERO PRIMO?`
+* **#4**  - `ÁREA DE UN POLÍGONO`
+* **#5**  - `ASPECT RATIO DE UNA IMAGEN`
+* **#6**  - `INVIRTIENDO CADENAS`
+* **#7**  - `CONTANDO PALABRAS`
+* **#8**  - `DECIMAL A BINARIO`
+* **#9**  - `CÓDIGO MORSE`
 * **#10** - `EXPRESIONES EQUILIBRADAS`
 * **#11** - `ELIMINANDO CARACTERES`
 * **#12** - `¿ES UN PALÍNDROMO?`
